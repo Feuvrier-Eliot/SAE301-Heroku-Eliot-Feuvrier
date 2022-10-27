@@ -1,0 +1,1 @@
+import{a as o}from"./FormMontres.vue_vue_type_script_setup_true_lang.2cc7168e.js";import{d as t,o as a,c as i,f as r}from"./index.e582de38.js";const n={class:"bg-gradient-to-t from-Noir-0 via-Noir-0 to-Violet-Bleu-0 pt-20"},m=t({__name:"[id]",props:{id:null},setup(e){return(s,c)=>(a(),i("div",n,[r(o,{id:e.id},null,8,["id"])]))}});export{m as default};

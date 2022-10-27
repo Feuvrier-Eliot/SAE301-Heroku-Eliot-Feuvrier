@@ -1,0 +1,1 @@
+import{a as e}from"./FormMontres.vue_vue_type_script_setup_true_lang.2cc7168e.js";import{d as o,o as a,k as n}from"./index.e582de38.js";const m=o({__name:"new",setup(r){return(t,s)=>(a(),n(e))}});export{m as default};
